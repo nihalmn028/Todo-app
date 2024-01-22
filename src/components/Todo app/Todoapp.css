@@ -54,4 +54,18 @@ width: 100%;}
   .flex{
     float: right;
  cursor: pointer;
+ margin-left: 10px;
   }
+p{
+  color: red;
+}
+.upbtn{
+  
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  display: none;
+  margin: auto;
+  margin-top: 10px;
+}
